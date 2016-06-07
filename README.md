@@ -1,4 +1,4 @@
-# react-endscreen
+# react-stock-portfolio
 Example of loading stocks from Yahoo Finance API using React with ES6 and Webpack.
 
 This example also demonstrates using jQuery plugins with React and ES6.
